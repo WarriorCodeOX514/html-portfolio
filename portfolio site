@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <meta charset="UTF-8">
+    </head>
+    <body>
+        <H1>Michael Williams' Portfolio</H1>
+
+        <a href="./public/about.html" height="500"><img src="./assets/images/me.JPG" alt="image of Michael Williams" height="500">
+            <br/>About Me</a>
+
+        <h2>I am a web developer.</h2>
+        <hr/>
+        <h3><a href="../Portfolio">Portfolio</a></h3>
+
+        <h4>html Element Excercises</h4>
+            <ul>
+                <li>Headings</li>
+                    <a href="./public/headings.html"><img src="./assets/images/headings.png" height="200" alt="screenshot of code and website preview"></a>
+                <li>Paragraph</li>
+                    <a href="./public/paragraphs.html"><img src="./assets/images/paragraphs.png" height="200" alt=""></a>
+                <li>Void Elements</li>
+                    <a href="./public/void elements.html"><img src="./assets/images/void elements.png" height="200" alt="screenshot of code and website preview"></a>
+                <li>Nesting and Indentation</li>
+                    <a href="./public/nesting and indentations.html"><img src="./assets/images/nesting and indentation.png" height="200" alt="screenshot of code and website preview"></a>
+                <li>Anchor Elements</li>
+                    <a href="./public/anchor elements.html"><img src="./assets/images/anchor elements.png" height="200" alt="screenshot of code and website preview"></a>
+                <li>Image Elements</li>
+                    <a href="./public/image elements.html"><img src="./assets/images/image elements.png" height="200" alt="screenshot of code and website preview"></a>
+                <li>File Paths</li>
+                    <a href="./public/file paths.html"><img src="./assets/images/file paths.png" height="200" alt="screenshot of code and website preview"></a>
+                <li>Multi-Page html</li>
+                    <a href="./public/multi-page sites.html"><img src="./assets/images/multi-page.png" height="200" alt="screenshot of code and website preview"></a>
+            </ul>
+
+        <h4>html Projects</h4>
+            <ul>
+                <li>Movie Ranking Project</li>
+                    <a href="./public/movie project.html"><img src="./assets/images/Movie Project.png" height="200" alt="screenshot of code and website preview"></a>
+                <li>Recipe Project</li>
+                    <a href="./public/recipe project.html"><img src="./assets/images/Recipe Project.PNG" height="200" alt="screenshot of code and website preview"></a>
+                <li>Birthday Invite Project</li>
+                    <a href="./public/birthday project.html"><img src="./assets/images/Birthday Invitiation Project.png" height="200" alt="screenshot of code and website preview"></a>
+            </ul>
+            <hr/>
+        <a href="./public/contact.html">Contact Me</a>
+    </body>
+</html>
